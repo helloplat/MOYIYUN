@@ -1,0 +1,68 @@
+{
+  "111": {
+    "password": "f6e0a1e2ac41945a9aa7ff8a8aaa0cebc12a3bcc981a929ad5cf810a090e11ae",
+    "phone": "13868524123",
+    "createdAt": 1793720277149,
+    "plan": "free",
+    "vipExpire": 1801499601945,
+    "unlimited": false,
+    "realName": "云预制实名",
+    "idCard": "330325198809217891",
+    "notices": [
+      {
+        "id": "823d0006c823de1f",
+        "title": "VIP 到期提醒",
+        "msg": "您的 免费版 将于 2026/12/4 到期（剩余 28 天），到期后将降级为免费版（5G），如需续费请前往开通 VIP。",
+        "createdAt": 1793956067731,
+        "read": true
+      }
+    ],
+    "noticedAt": 1793956067731,
+    "bonus": 220117073920,
+    "lastCheckin": "2026-11-07",
+    "memo": "MY33467867",
+    "memoPlan": "vip100",
+    "memoAt": 1794038940317,
+    "lotteryLog": [
+      {
+        "t": 1794038077558,
+        "cost": 20,
+        "gained": 12
+      },
+      {
+        "t": 1794038318842,
+        "cost": 20,
+        "gained": 40
+      },
+      {
+        "t": 1794038448647,
+        "cost": 20,
+        "gained": 3
+      }
+    ]
+  },
+  "MOYIADMIN": {
+    "password": "f6e0a1e2ac41945a9aa7ff8a8aaa0cebc12a3bcc981a929ad5cf810a090e11ae",
+    "createdAt": 1793718429504,
+    "plan": "free",
+    "vipExpire": 1801495313268
+  },
+  "test": {
+    "password": "ecd71870d1963316a97e3ac3408c9835ad8cf0f3c1bc703527c30265534f75ae",
+    "createdAt": 1793718958802,
+    "plan": "super",
+    "vipExpire": 1796315627140,
+    "unlimited": true,
+    "notices": [
+      {
+        "id": "9f11c1cb592ab435",
+        "title": "VIP 到期提醒",
+        "msg": "您的 超级VIP 将于 2026/12/4 到期（剩余 28 天），到期后将降级为免费版（5G），如需续费请前往开通 VIP。",
+        "createdAt": 1793960781714,
+        "read": false,
+        "mailStatus": "该用户未填写邮箱"
+      }
+    ],
+    "noticedAt": 1793960781714
+  }
+}
