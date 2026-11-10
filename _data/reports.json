@@ -1,0 +1,22 @@
+[
+  {
+    "id": "65988778fd3544f7",
+    "target": "13868524123",
+    "reason": "wcn充值",
+    "reporterPhone": "13868524123",
+    "analysis": {
+      "exists": false,
+      "phone": null,
+      "verified": false,
+      "realName": null,
+      "plan": "free",
+      "vipActive": false,
+      "registeredAt": null,
+      "minorSuspected": false,
+      "note": ""
+    },
+    "status": "resolved",
+    "createdAt": 1793748928139,
+    "handledAt": 1793748932210
+  }
+]
