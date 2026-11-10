@@ -1,0 +1,17 @@
+{
+  "MOYILOVE1314520": {
+    "code": "MOYILOVE1314520",
+    "gb": 200,
+    "limit": 101,
+    "repeat": false,
+    "enabled": true,
+    "used": [
+      {
+        "user": "111",
+        "at": 1794038063345,
+        "gb": 200
+      }
+    ],
+    "createdAt": 1794038039085
+  }
+}
